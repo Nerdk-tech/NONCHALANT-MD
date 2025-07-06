@@ -5,7 +5,7 @@
 <div class = "repo" align = "center">
  
 <a href = "#">
-<img src = "https://files.catbox.moe/bqs70b.jpg"  width="300" height="200">
+<img src = "https://files.catbox.moe/rjxd9c.jpeg"  width="300" height="200">
 </img>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=NONCHALANT-MD+MD+WHATSAPP+BOT+MD" alt="">
@@ -99,11 +99,11 @@ jobs:
 ### Thank You Dear
 
 > DEVELOPER OF NONCHALANT-MD 
-- [Lord Malvin ](https://github.com/Nerdk-tech)
+- [DAMINI](https://github.com/Nerdk-tech)
 - Creater and Owner Of NONCHALANT-MD 
 
 > NONCHALANT-MD Helper
-- [Malvin King](https://github.com/kingmalvn)
+- [K-TECH](https://github.com/kingmalvn)
 - For helping in bot plugin files.
 ---
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>-MD
